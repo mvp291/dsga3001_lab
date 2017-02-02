@@ -1,2 +1,2 @@
-# dsga3001
-DS-GA 3001: Natural Language Understanding with Deep Learning coursework
+# dsga3001_lab
+DS-GA 3001: Advanced Python for Data Science Lab
